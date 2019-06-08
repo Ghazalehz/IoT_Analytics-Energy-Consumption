@@ -4,10 +4,10 @@
 #                                                                                      #
 #           Project Description: The goal of the project is to justify that by         #
 #           installing sub-metering devices in households, the home developer would    #
-#			add value by helping household reduce energy consumptions.                 #
-#			For that, the data analyst will perform modelling to check patterns of     #
+#			add value by helping household reduce energy consumptions.                       #
+#			For that, the data analyst will perform modelling to check patterns of           #
 #           energy usage by time of day and day of the year in a typical household     #
-#			whose electrical system is monitored by multiple sub-meters.               #
+#			whose electrical system is monitored by multiple sub-meters.                     #
 #                                                                                      #
 #           Author: Ghazaleh Zamani                                                    #
 #                                                                                      #
